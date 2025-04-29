@@ -4,7 +4,7 @@
 - cxed path/to/file
 - cxed (without arguments)
 
-![Using](https://github.com/MSTendo64/CXED-TextEditor/blob/master/screenshots/Using.png?raw=true)
+![Using](/screenshots/Using.png)
 
 **Input:**
 - Upper / Lower arrows - move along the lines
