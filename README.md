@@ -12,4 +12,4 @@
 - ctrl + d - Save
 - ctrl + x - Exit
 
-![Work](https://github.com/MSTendo64/CXED-TextEditor/blob/master/screenshots/Work.png?raw=true)
+![Work](/screenshots/Work.png)
