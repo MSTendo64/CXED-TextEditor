@@ -11,5 +11,4 @@
 - tab - Adds 4 spaces
 - ctrl + d - Save
 - ctrl + x - Exit
-
 ![Work](/screenshots/Work.png)
