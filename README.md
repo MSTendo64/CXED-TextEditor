@@ -5,7 +5,7 @@
 - cxed (without arguments)
 
 ![Using](/screenshots/Using.png)
-![Work](/screenshots/Work.png)
+![Working](/screenshots/Work.png)
 
 
 **Input:**
