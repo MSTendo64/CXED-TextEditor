@@ -2,7 +2,7 @@
 
 **You can use:**
 - cxed path/to/file
-- cexd (without arguments)
+- cxed (without arguments)
 
 ![Using](https://github.com/MSTendo64/CXED-TextEditor/blob/master/screenshots/Using.png?raw=true)
 
