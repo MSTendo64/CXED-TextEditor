@@ -1,5 +1,7 @@
 # CXED simple Text editor
 
+**Written using c#**
+
 **You can use:**
 - cxed path/to/file
 - cexd (without arguments)
