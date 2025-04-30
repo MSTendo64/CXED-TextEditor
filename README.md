@@ -4,7 +4,7 @@
 
 **You can use:**
 - cxed path/to/file
-- cexd (without arguments)
+- cxed (without arguments)
 
 ![Using](/screenshots/Using.png)
 
